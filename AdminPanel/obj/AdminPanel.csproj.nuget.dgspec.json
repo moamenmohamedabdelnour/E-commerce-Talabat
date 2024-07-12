@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\AdminPanel\\AdminPanel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\AdminPanel\\AdminPanel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\AdminPanel\\AdminPanel.csproj",
+        "projectName": "AdminPanel",
+        "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\AdminPanel\\AdminPanel.csproj",
+        "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\AdminPanel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.APIs\\Talabat2.APIs.csproj": {
+                "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.APIs\\Talabat2.APIs.csproj"
+              },
+              "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj": {
+                "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.APIs\\Talabat2.APIs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.APIs\\Talabat2.APIs.csproj",
+        "projectName": "Talabat2.APIs",
+        "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.APIs\\Talabat2.APIs.csproj",
+        "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.APIs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj": {
+                "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj"
+              },
+              "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Service\\Talabat2.Service.csproj": {
+                "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Service\\Talabat2.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Core\\Talabat2.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Core\\Talabat2.Core.csproj",
+        "projectName": "Talabat2.Core",
+        "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Core\\Talabat2.Core.csproj",
+        "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.4, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[43.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj",
+        "projectName": "Talabat2.Repository",
+        "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj",
+        "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Core\\Talabat2.Core.csproj": {
+                "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Core\\Talabat2.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Service\\Talabat2.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Service\\Talabat2.Service.csproj",
+        "projectName": "Talabat2.Service",
+        "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Service\\Talabat2.Service.csproj",
+        "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Core\\Talabat2.Core.csproj": {
+                "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Core\\Talabat2.Core.csproj"
+              },
+              "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj": {
+                "projectPath": "C:\\Users\\Moustafa\\Desktop\\.NET\\08 ASP.NET Core Web API_s\\Session 7\\last\\Talabat2.APIs.Solutions\\Talabat2.Repository\\Talabat2.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

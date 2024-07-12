@@ -1,0 +1,566 @@
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.exe
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat2.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat2.APIs.styles.css
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\refint\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\ref\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.exe
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat2.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat2.APIs.styles.css
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\refint\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\ref\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.staticwebassets.runtime.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.staticwebassets.runtime.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.exe
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat2.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat2.APIs.styles.css
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\refint\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\ref\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.staticwebassets.runtime.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.exe
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat2.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat2.APIs.styles.css
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\refint\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\ref\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Service.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Service.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.staticwebassets.runtime.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.exe
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Service.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Service.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat2.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat2.APIs.styles.css
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\refint\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\ref\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\refint\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.staticwebassets.runtime.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.exe
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Service.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Service.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat2.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat2.APIs.styles.css
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\ref\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.staticwebassets.runtime.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.exe
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Service.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Service.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat2.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat2.APIs.props
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat2.APIs.styles.css
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\refint\Talabat2.APIs.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\Talabat2.APIs.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.APIs\obj\Debug\net6.0\ref\Talabat2.APIs.dll

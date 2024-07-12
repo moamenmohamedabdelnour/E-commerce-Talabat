@@ -1,0 +1,105 @@
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\refint\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\ref\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\refint\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 2\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\ref\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\refint\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 3\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\ref\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\refint\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 4\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\ref\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\refint\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 5\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\ref\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\refint\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 6\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\ref\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.deps.json
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\bin\Debug\net6.0\Talabat2.Core.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.csproj.CopyComplete
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\refint\Talabat2.Repository.dll
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\Talabat2.Repository.pdb
+C:\Users\Moustafa\Desktop\.NET\08 ASP.NET Core Web API_s\Session 7\Talabat2.APIs.Solutions\Talabat2.Repository\obj\Debug\net6.0\ref\Talabat2.Repository.dll
